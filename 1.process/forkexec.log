@@ -1,0 +1,5 @@
+Parent (2144089): Open log file (fd = 3) 
+Child (2144090): fd(3): Test fd.
+Parent (2144154): Open log file (fd = 3) 
+Child (2144155): fd(3): Test fd.
+Parent (2144216): Open log file (fd = 3) 
